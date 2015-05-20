@@ -1,6 +1,11 @@
-# PHPcomRapadura
-Repositorio da comunidade PHP com Rapadura
+# Serie Walmart com CodeIgniter
 
-| http://www.phpcomrapadura.org
+Aprendendo a montar um gerenciador de produtos com CodeIgniter.
 
-Em breve iremos começar a comitar... aguardem!
+  - Cadastrar usuários
+  - Cadastra produtos
+  - Usuários se cadastram
+  - Notificações
+  - Envio de e-mails
+
+* [Blog - Tiago Serra](https://www.tiagoserra.com.br)

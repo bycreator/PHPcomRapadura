@@ -1,6 +1,5 @@
-# PHPcomRapadura
-Repositorio da comunidade PHP com Rapadura
+# Serie Walmart com CodeIgniter
 
-| http://www.phpcomrapadura.org
+Iniciando a mão na massa
 
-Em breve iremos começar a comitar... aguardem!
+* [Blog - Tiago Serra](http://tiagoserra.com.br/codeigniter-iniciando-nosso-walmart/)
